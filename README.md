@@ -18,6 +18,11 @@
 | `Python Programmer` | *In progress* |
 | `Data Analyst` | *In progress* |
 
+### Skill Tracks
+| Title | Status |
+| --- | --- |
+| `Python Fundamentals Track` | **Completed** |
+
 ### Courses
 | Title | Status |
 | --- | --- |
@@ -39,17 +44,16 @@
 | `Data Manipulation with pandas` | **Completed** |
 | `Data Types for Data Science in Python` | **Completed** |
 
-
-### Skill Tracks
 <pre> </pre>
 ## SQL
 ### Career Tracks
+### Skill Tracks
 ### Courses
 | Title | Status |
 | --- | --- |
 | `Introduction to SQL` | **Completed** |
 | `Joining Data in SQL` |*In progress* |
-### Skill Tracks
+
 
 <pre> </pre>
 # Projects:
