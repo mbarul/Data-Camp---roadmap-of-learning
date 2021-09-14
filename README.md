@@ -35,7 +35,6 @@
 | `Introduction to Data Visualization with Seaborn` | **Completed** |
 | `Introduction to Importing Data in Python` | **Completed** |
 | `Intermediate Importing Data in Python` |*In progress* |
-
 | `Joining Data with pandas` | **Completed** |
 | `Data Manipulation with pandas` | **Completed** |
 | `Data Types for Data Science in Python` | **Completed** |
