@@ -22,15 +22,20 @@
 | Title | Status |
 | --- | --- |
 | `Introduction to Python` | **Completed** |
-| `Introduction to Data Science in Python` | **Completed** |
-| `Introduction to Data Visualization with Matplotlib` | **Completed** |
-| `Introduction to Data Visualization with Seaborn` | **Completed** |
-| `Introduction to Importing Data in Python` | **Completed** |
 | `Intermediate Python` | **Completed** |
 | `Object-Oriented Programming in Python` | **Completed** |
 | `Python Data Science Toolbox (Part 1)` | **Completed** |
 | `Python Data Science Toolbox (Part 2)` | **Completed** |
+| `Working with Dates and Times in Python` |*In progress* |
 | `Writing Functions in Python` | **Completed** |
+|  |  |
+|  |  |
+| `Introduction to Data Science in Python` | **Completed** |
+| `Introduction to Data Visualization with Matplotlib` | **Completed** |
+| `Introduction to Data Visualization with Seaborn` | **Completed** |
+| `Introduction to Importing Data in Python` | **Completed** |
+| `Intermediate Importing Data in Python` |*In progress* |
+
 | `Joining Data with pandas` | **Completed** |
 | `Data Manipulation with pandas` | **Completed** |
 | `Data Types for Data Science in Python` | **Completed** |
@@ -44,6 +49,7 @@
 | Title | Status |
 | --- | --- |
 | `Introduction to SQL` | **Completed** |
+| `Joining Data in SQL` |*In progress* |
 ### Skill Tracks
 
 <pre> </pre>
