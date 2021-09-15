@@ -60,10 +60,12 @@
 # Projects:
 
 ## Python
-| Project | Description |
-| --- | --- |
+| Project | Description |Status|
+| --- | --- | --- |
+|[Investigating Netflix Movies and Guest Stars in The Office](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)|A project that checks whether the length of films is shortened with the successive years|**Completed**|
+
 <pre> </pre>
 ## SQL
-| Project | Description |
-| --- | --- |
+| Project | Description |Status|
+| --- | --- | --- |
 <pre> </pre>
