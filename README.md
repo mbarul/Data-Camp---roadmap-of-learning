@@ -29,7 +29,7 @@
 | --- | --- |
 | `Introduction to Python` | **Completed** |
 | `Intermediate Python` | **Completed** |
-| `Introduction to Shell` | *In progress* |
+| `Introduction to Shell` | **Completed** |
 | `Python Data Science Toolbox (Part 1)` | **Completed** |
 | `Python Data Science Toolbox (Part 2)` | **Completed** |
 | `Working with Dates and Times in Python` |*In progress* |
