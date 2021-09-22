@@ -32,7 +32,7 @@
 | `Introduction to Shell` | **Completed** |
 | `Python Data Science Toolbox (Part 1)` | **Completed** |
 | `Python Data Science Toolbox (Part 2)` | **Completed** |
-| `Working with Dates and Times in Python` |*In progress* |
+| `Working with Dates and Times in Python` |**Completed** |
 | `Writing Functions in Python` | **Completed** |
 | `Object-Oriented Programming in Python` | **Completed** |
 ||
@@ -68,6 +68,7 @@
 |[Investigating Netflix Movies and Guest Stars in The Office](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office.ipynb)|A project that checks whether the length of films is shortened with the successive years.|**Completed**|
 | [The Android App Market on Google Play](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/The%20Android%20App%20Market%20on%20Google%20Play/The%20Android%20App%20Market%20on%20Google%20Play.ipynb) | A project that checks the dependencies between applications on Google Play. | **Completed** |
 | [The GitHub History of the Scala Language](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/The%20GitHub%20History%20of%20the%20Scala%20Language/The%20GitHub%20History%20of%20the%20Scala%20Language.ipynb) | Find the Scala experts by exploring its development history in GitHub. |**Completed** |
+|[A Visual History of Nobel Prize](https://github.com/mbarul/Data-Camp---roadmap-of-learning/blob/master/projects/python/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/A%20Visual%20History%20of%20Nobel%20Prize%20Winners.ipynb)|Data analysis based on the Nobel Prize.What characteristics for the prize winners have? Which country gets it most often? And has anybody gotten it twice? And many other questions we'll come to.|**Completed**|
 <pre> </pre>
 ## SQL
 | Project | Description |Status|
