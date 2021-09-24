@@ -33,6 +33,7 @@
 | `Python Data Science Toolbox (Part 1)` | **Completed** |
 | `Python Data Science Toolbox (Part 2)` | **Completed** |
 | `Working with Dates and Times in Python` |**Completed** |
+|`Regular Expressions in Python`|**Completed**|
 | `Writing Functions in Python` | **Completed** |
 | `Object-Oriented Programming in Python` | **Completed** |
 ||
