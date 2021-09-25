@@ -34,6 +34,7 @@
 | `Python Data Science Toolbox (Part 2)` | **Completed** |
 | `Working with Dates and Times in Python` |**Completed** |
 |`Regular Expressions in Python`|**Completed**|
+|`Web Scraping in  Python`|**Completed**|
 | `Writing Functions in Python` | **Completed** |
 | `Object-Oriented Programming in Python` | **Completed** |
 ||
