@@ -37,6 +37,7 @@
 |`Web Scraping in  Python`|**Completed**|
 | `Writing Functions in Python` | **Completed** |
 |`Software Engineering for Data Scientists in Python`|**Completed**|
+|`Developing Python Packages`|**Completed**|
 | `Object-Oriented Programming in Python` | **Completed** |
 ||
 ||
