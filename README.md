@@ -15,7 +15,7 @@
 ### Career Tracks
 | Title | Status |
 | --- | --- |
-| `Python Programmer` | *In progress* |
+| `Python Programmer` | **Completed** |
 | `Data Analyst` | *In progress* |
 | `Data Scientist` | *In progress* |
 
@@ -38,6 +38,7 @@
 | `Writing Functions in Python` | **Completed** |
 |`Software Engineering for Data Scientists in Python`|**Completed**|
 |`Developing Python Packages`|**Completed**|
+|`Unit Testing for Data Science in Python`|**Completed**|
 | `Object-Oriented Programming in Python` | **Completed** |
 ||
 ||
